@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # 2. Judul Aplikasi
-st.title("🏪 Kasir Warung Digital")
+st.title("🏪 Kasir warung Imafatih")
 st.write("Aplikasi penghitung laba bersih otomatis untuk HP.")
 
 # 3. Input Jumlah Terjual (Layout dibuat 2 kolom agar rapi)
